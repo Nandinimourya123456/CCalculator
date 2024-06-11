@@ -1,0 +1,12 @@
+.btncontaier{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.butttndisplay{
+    width: 75px;
+    color: brown;
+    background-color: aqua;
+    height: 45px;
+    margin: 3px;
+    border-radius: 8px;}
